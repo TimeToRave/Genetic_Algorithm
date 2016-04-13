@@ -1,0 +1,5 @@
+C:\Users\nickk\documents\visual studio 2010\Projects\genetic\genetic\bin\Debug\genetic.exe
+C:\Users\nickk\documents\visual studio 2010\Projects\genetic\genetic\bin\Debug\genetic.pdb
+C:\Users\nickk\documents\visual studio 2010\Projects\genetic\genetic\obj\x86\Debug\genetic.csprojResolveAssemblyReference.cache
+C:\Users\nickk\documents\visual studio 2010\Projects\genetic\genetic\obj\x86\Debug\genetic.exe
+C:\Users\nickk\documents\visual studio 2010\Projects\genetic\genetic\obj\x86\Debug\genetic.pdb
